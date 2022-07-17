@@ -1,0 +1,10 @@
+# 项目排除路径
+/cloud-api/target/
+/cloud-consumer-80/target/
+/cloud-consumer-feign/target/
+/cloud-erueka-7001/target/
+/cloud-erueka-7002/target/
+/cloud-hystrix-dashboard/target/
+/cloud-provider-dept-8001/target/
+/cloud-provider-dept-8003/target/
+/cloud-provider-dept-hystrix-8002/target/
